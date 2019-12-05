@@ -1,0 +1,10 @@
+.comment{
+  background-color: #f1f1f1;
+  border-radius: 20px;
+  display: block;
+  min-height: 30px;
+  padding: 10px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
